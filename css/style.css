@@ -2,9 +2,7 @@ body{
     font-family: 'Lato', sans-serif;
     margin: 0;
     padding: 0;
-    background: url("../images/bg.jpeg");
-  }
-
+    background: url("../images/bg.jpeg");  }
   p {
     color: #ffffff;
   }
