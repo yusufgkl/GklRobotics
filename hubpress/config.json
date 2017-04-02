@@ -6,5 +6,21 @@
   },
   "theme": {
     "name": "ghostium"
+  },
+  "urls": {
+    "site": "https://yusufgkl.github.io/GklRobotics",
+    "hubpress": "https://yusufgkl.github.io/GklRobotics",
+    "theme": "//yusufgkl.github.io/GklRobotics/themes/ghostium",
+    "images": "https://yusufgkl.github.io/GklRobotics/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
